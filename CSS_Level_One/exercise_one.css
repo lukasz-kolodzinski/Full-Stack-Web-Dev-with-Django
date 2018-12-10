@@ -1,0 +1,18 @@
+/* This is an example of CSS comment */
+
+h1 {
+  color: blue;
+}
+
+li{
+  color: rgb(224, 51, 221);
+}
+
+/* Hex */
+p{
+  color: #997037;
+}
+
+h3{
+  color: rgba(55, 56, 153, 0.4);
+}
