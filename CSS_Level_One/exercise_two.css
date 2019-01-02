@@ -1,0 +1,22 @@
+body{
+  /*background: olive; */
+  background: url(https://cdn.pixabay.com/photo/2018/12/28/18/05/autumn-3900048_960_720.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+div{
+  background-color: orange;
+  border-color: blue;
+  border-width: 3px;
+  border-style: dotted;
+}
+
+p{
+  color: purple;
+}
+
+span{
+  background-color: cornsilk;
+  color: fuchsia;
+}
