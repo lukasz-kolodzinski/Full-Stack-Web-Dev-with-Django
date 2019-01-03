@@ -1,0 +1,24 @@
+.firstDiv{
+  color: navy;
+}
+
+.secondDiv{
+  color: fuchsia;
+}
+
+#outside{
+  color: cyan;
+  text-decoration: underline;
+}
+
+h2 + ul{
+  border: 2px sienna double;
+}
+
+li a{
+  color: #00BFFF
+}
+
+li a[href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets"]{
+  text-decoration: line-through;
+}
