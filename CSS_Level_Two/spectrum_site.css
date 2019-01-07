@@ -1,0 +1,48 @@
+h1{
+  font-family: 'Dancing Script';
+  text-align: center;
+  margin-top: 30px;
+}
+
+table{
+  margin: auto;
+  margin-top: 90px;
+}
+
+td{
+  width: 100px;
+  height: 160px;
+  border: 8px white solid;
+}
+
+#first{
+  background-color: #D0BF4D;
+}
+
+#second{
+  background-color: #81B457;
+}
+
+#third{
+  background-color: #50A26D;
+}
+
+#fourth{
+  background-color: #219497;
+}
+
+#fifth{
+  background-color: #2E80B2;
+}
+
+#sixth{
+  background-color: #4C74AF;
+}
+
+#seventh{
+  background-color: #6D6384;
+}
+
+#eighth{
+  background-color: #86587C;
+}
