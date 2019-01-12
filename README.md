@@ -5,3 +5,4 @@ Used tools and technologies:
 1. ATOM IDE
 2. HTML
 3. CSS
+4. Bootstrap
